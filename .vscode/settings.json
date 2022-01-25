@@ -1,0 +1,13 @@
+{
+    "java.project.sourcePaths": [
+        "TrueStack",
+        "StaticJava",
+        "ReturnOb",
+        "Recursion",
+        "OverLoadFunction",
+        "OverLoadConstruction2",
+        "OverLoadConstruction",
+        "AccessJava",
+        "Array"
+    ]
+}
